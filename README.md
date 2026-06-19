@@ -12,3 +12,8 @@ A python tool that analyze password strength based on:
 - Strength scoring
 - Weak password detection
 - Security recommendations
+
+
+# usage
+
+# - Download *Rockyou.txt*
